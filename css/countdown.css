@@ -23,7 +23,7 @@ video {
 }
 .bgimg {
   background: transparent;
-  backdrop-filter: blur(95px);
+  backdrop-filter: blur(9px);
   color: white;
   font-size: 25px;
   height: 100%;
