@@ -67,7 +67,7 @@ video {
 }
 @media screen(max-width:768px){
   #countdown {
-     font-size: 20px;
+     font-size: 10px;
   }
 }
 .bgimg hr {
