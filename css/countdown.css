@@ -62,7 +62,6 @@ video {
   margin-bottom: -20px;
 }
 #countdown {
-  font-size: 35px;
   text-wrap: wrap;
 }
 @media (max-width:768px){
