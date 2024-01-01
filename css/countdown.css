@@ -65,6 +65,11 @@ video {
   font-size: 35px;
   text-wrap: wrap;
 }
+@media screen(max-width:768px){
+  .bgimg #countdown {
+     font-size: 20px;
+  }
+}
 .bgimg hr {
   margin: auto;
   width: 40%;
