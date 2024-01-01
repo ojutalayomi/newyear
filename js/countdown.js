@@ -53,7 +53,7 @@ function updateCountdown() {
     // If the count down is finished, write some text
     if (distance < 0) {
         clearInterval(countdownInterval);
-        document.getElementById("countdown").innerHTML = "EXPIRED";
+        document.getElementById("countdown").innerHTML = "HAPPY NEW YEAR";
     }
 }
 
