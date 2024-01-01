@@ -48,7 +48,7 @@ function updateCountdown() {
     var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
     // Display the result in an element with id="countdown"
-    document.getElementById("countdown").innerHTML = days + " day(s) | " + hour + " hour(s) | " + minutes + " minute(s) | " + seconds + " second(s) ";
+    document.getElementById("countdown").innerHTML = days + " day(s) | " + hours + " hour(s) | " + minutes + " minute(s) | " + seconds + " second(s) ";
 
     // If the count down is finished, write some text
     if (distance < 0) {
